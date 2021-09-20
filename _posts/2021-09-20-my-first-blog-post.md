@@ -1,3 +1,8 @@
+---
+title: "A Guide to JavaScript for Beginners"
+date: 2021-09-20
+---
+
 # Introduction
 JavaScript is the Programming Language for the Web. <img src="https://i.imgur.com/utpmCAz.png" alt="js-logo" align="right" width="250"/>
 
