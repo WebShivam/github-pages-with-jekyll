@@ -227,9 +227,9 @@ Example:
 1.	The length property returns the length of a string.
 2.	The indexOf() method returns the index of (the position of) the first occurrence of a specified text in a string. The lastIndexOf() method returns the index of the last occurrence of a specified text in a string. Both of these methods return -1 if the text is not found.
 3.	The search() method searches a string for a specified value and returns the position of the match.
-4.	There are 3 methods for extracting a part of a string:
-  a.	The slice() method extracts a part of a string and returns the extracted part in a new string. This method takes 2 parameters: the start position, and the end position (end not included).
-  b.	The substring() method is similar to slice(). The difference is that substring() cannot accept negative indexes. If you omit the second parameter, substring() will slice out the rest of the string.
+4.	There are 3 methods for extracting a part of a string:<br>
+  a.	The slice() method extracts a part of a string and returns the extracted part in a new string. This method takes 2 parameters: the start position, and the end position (end not included).<br>
+  b.	The substring() method is similar to slice(). The difference is that substring() cannot accept negative indexes. If you omit the second parameter, substring() will slice out the rest of the string.<br>
   c.	The substr() method is similar to slice(). The difference is that the second parameter specifies the length of the extracted part. If you omit the second parameter, substr() will slice out the rest of the string.
 5.	The replace() method replaces a specified value with another value in a string. This method does not change the string it is called on. It returns a new string. By default, this method is case sensitive. To replace case insensitive, use a regular expression with an /i flag (insensitive). To replace all matches, use a regular expression with a /g flag (global match). 
 6.	The concat() method joins two or more strings.
