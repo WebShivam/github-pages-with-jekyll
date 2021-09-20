@@ -206,6 +206,7 @@ Here is the list of number methods:
 3.	The toFixed() method returns a string, with the number written with a specified number of decimals.
 4.	The toPrecision() method returns a string, with a number written with a specified length.
 5.	The valueOf() method returns a number as a number. In JavaScript, a number can be a primitive value (typeof = number) or an object (typeof = object). The valueOf() method is used internally in JavaScript to convert Number objects to primitive values.
+
 ## Global JavaScript methods
 JavaScript global methods can be used on all JavaScript data types.
 These are the most relevant methods, when working with numbers:
@@ -227,10 +228,10 @@ Example:
 1.	The length property returns the length of a string.
 2.	The indexOf() method returns the index of (the position of) the first occurrence of a specified text in a string. The lastIndexOf() method returns the index of the last occurrence of a specified text in a string. Both of these methods return -1 if the text is not found.
 3.	The search() method searches a string for a specified value and returns the position of the match.
-4.	There are 3 methods for extracting a part of a string:<br>
-  a.	The slice() method extracts a part of a string and returns the extracted part in a new string. This method takes 2 parameters: the start position, and the end position (end not included).<br>
-  b.	The substring() method is similar to slice(). The difference is that substring() cannot accept negative indexes. If you omit the second parameter, substring() will slice out the rest of the string.<br>
-  c.	The substr() method is similar to slice(). The difference is that the second parameter specifies the length of the extracted part. If you omit the second parameter, substr() will slice out the rest of the string.
+4.	There are 3 methods for extracting a part of a string: <br>
+  a.	The slice() method extracts a part of a string and returns the extracted part in a new string. This method takes 2 parameters: the start position, and the end         position (end not included). <br>
+  b.	The substring() method is similar to slice(). The difference is that substring() cannot accept negative indexes. If you omit the second parameter, substring()         will slice out the rest of the string. <br>
+  c.	The substr() method is similar to slice(). The difference is that the second parameter specifies the length of the extracted part. If you omit the second             parameter, substr() will slice out the rest of the string.
 5.	The replace() method replaces a specified value with another value in a string. This method does not change the string it is called on. It returns a new string. By default, this method is case sensitive. To replace case insensitive, use a regular expression with an /i flag (insensitive). To replace all matches, use a regular expression with a /g flag (global match). 
 6.	The concat() method joins two or more strings.
 7.	The trim() method removes whitespace from both sides of a string
