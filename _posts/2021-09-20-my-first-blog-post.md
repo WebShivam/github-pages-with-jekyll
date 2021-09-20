@@ -16,13 +16,13 @@ Example
  
 <br>The example above "finds" an HTML element (with id="demo"), and changes the element content (innerHTML) to "Hello JavaScript".
 
-Example Explained
-●	The <!DOCTYPE html> declaration defines that this document is an HTML5 document
-●	The <html> element is the root element of an HTML page
-●	The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc.
-●	The <h2> element defines a second-level heading
-●	The <p> element defines a paragraph
-●	The <button> element defines a clickable button where the JavaScript method document.getElementById() is introduced by using an onclick event.
+Example Explained <br>
+●	The <!DOCTYPE html> declaration defines that this document is an HTML5 document <br>
+●	The <html> element is the root element of an HTML page <br>
+●	The <body> element defines the document's body, and is a container for all the visible contents, such as headings, paragraphs, images, hyperlinks, tables, lists, etc. <br>
+●	The `<h2>` element defines a second-level heading <br>
+●	The `<p>` element defines a paragraph <br>
+●	The `<button>` element defines a clickable button where the JavaScript method document.getElementById() is introduced by using an onclick event. <br>
 ## Properties of JavaScript
 1.	In HTML, JavaScript code is inserted between <script> and </script> tags. You can place any number of scripts in an HTML document.
         Example
