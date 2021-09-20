@@ -4,7 +4,8 @@ email: shivamdubey486@gmail.com
 theme: minima
 description: > # this means to ignore newlines until "baseurl:"
   This is my first blog site with Jekyll. I'm learning to work and build with GitHub Pages with Jekyll
-
+gems:
+  - jekyll-avatar
 # social links
 twitter_username: web_shivam # DO NOT include the @ character, or else the build will fail!
 github_username:  WebShivam # DO NOT include the @ character, or else the build will fail!
