@@ -4,7 +4,7 @@ date: 2021-09-20
 ---
 
 # Introduction
-JavaScript is the Programming Language for the Web. <img src="https://i.imgur.com/utpmCAz.png" alt="js-logo" align="right" width="25%"/>
+JavaScript is the Programming Language for the Web. <img src="https://i.imgur.com/utpmCAz.png" alt="js-logo" align="right" width="25rem"/>
 
 ## Why to study JavaScript?
 JavaScript is one of the 3 languages all web developers must learn:
