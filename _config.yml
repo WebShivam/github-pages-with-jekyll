@@ -1,7 +1,7 @@
 title: My Awesome Blog
 author: WebShivam
 email: shivamdubey486@gmail.com
-theme: jekyll-theme-tactile
+theme: jekyll-theme-midnight
 description: > # this means to ignore newlines until "baseurl:"
   This is my first blog site with Jekyll. I'm learning to work and build with GitHub Pages with Jekyll
 gems:
